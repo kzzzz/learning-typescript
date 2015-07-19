@@ -30,6 +30,7 @@
     <TypeScriptCompile Include="typescript.language\function.overloading.ts" />
     <TypeScriptCompile Include="typescript.language\generics.ts" />
     <TypeScriptCompile Include="typescript.language\interface.ts" />
+    <TypeScriptCompile Include="typescript.language\mixin.specs.ts" />
     <TypeScriptCompile Include="typescript.language\mixin.ts" />
     <TypeScriptCompile Include="typescript.language\models\DateRange.specs.ts" />
     <TypeScriptCompile Include="typescript.language\models\DateRange.ts" />
